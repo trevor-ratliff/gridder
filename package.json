@@ -1,0 +1,23 @@
+{
+  "name": "gridder",
+  "version": "1.0.0",
+  "description": "CLI tool to create a Symbols grid selector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "symbol",
+    "grid"
+  ],
+  "author": "Trevor Ratliff",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^14.0.0"
+  },
+  "bin": {
+    "gridder": "./bin/index.js"
+  },
+  "type": "module"
+}
