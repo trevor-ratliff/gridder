@@ -1,5 +1,5 @@
 {
-  "name": "gridder",
+  "name": "symbols-gridder",
   "version": "1.0.0",
   "description": "CLI tool to create a Symbols grid selector",
   "main": "index.js",
